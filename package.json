@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "jsdom": "^22.1.0"
+  },
+  "plugins": [
+    "jsdom-quokka-plugin"
+  ]
+}
